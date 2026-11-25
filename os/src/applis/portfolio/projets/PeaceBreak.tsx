@@ -26,7 +26,7 @@ export default function PeaceBreak() {
         ]}
         liens={[
           { nom: 'Sur F-Droid', lien: 'https://f-droid.org/fr/packages/com.treig.peace_break/', Icone: Download },
-          { nom: 'Code source', lien: 'https://github.com/tristan-reig/peace-break', Icone: ExternalLink },
+          { nom: 'Code source', lien: 'https://github.com/tristan24217/peace-break', Icone: ExternalLink },
         ]}
       />
 

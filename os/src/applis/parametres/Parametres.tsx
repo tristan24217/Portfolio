@@ -464,8 +464,8 @@ function APropos() {
         <Lignes lignes={CREDITS} />
         <p className="pa-aide pa-signature">
           Conçu et développé par Tristan Reig.{' '}
-          <a href="https://github.com/tristan-reig" target="_blank" rel="noreferrer">
-            github.com/tristan-reig
+          <a href="https://github.com/tristan24217" target="_blank" rel="noreferrer">
+            github.com/tristan24217
           </a>
         </p>
       </section>

@@ -43,8 +43,8 @@ export default function DoomLike() {
           ['Année', '2026'],
         ]}
         liens={[
-          { nom: 'Télécharger', lien: 'https://github.com/tristan-reig/doom-like/releases/latest', Icone: Download },
-          { nom: 'Code source', lien: 'https://github.com/tristan-reig/doom-like', Icone: ExternalLink },
+          { nom: 'Télécharger', lien: 'https://github.com/tristan24217/doom-like/releases/latest', Icone: Download },
+          { nom: 'Code source', lien: 'https://github.com/tristan24217/doom-like', Icone: ExternalLink },
         ]}
       />
 

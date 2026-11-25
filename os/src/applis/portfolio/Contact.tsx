@@ -8,7 +8,7 @@ const EMAIL = 'tristan.reig@gmail.com'
 const CV = `${import.meta.env.BASE_URL}cv/CV-Tristan-Reig.pdf`
 
 const RESEAUX = [
-  { nom: 'GitHub', lien: 'https://github.com/tristan-reig', Icone: FaGithub },
+  { nom: 'GitHub', lien: 'https://github.com/tristan24217', Icone: FaGithub },
   { nom: 'LinkedIn', lien: 'https://www.linkedin.com/in/tristan-reig', Icone: FaLinkedinIn },
 ]
 

@@ -149,7 +149,7 @@ export default function SimsEngine() {
           ['Physique', 'pymunk'],
           ['Affichage', 'pygame'],
         ]}
-        liens={[{ nom: 'Code source', lien: 'https://github.com/tristan-reig/SimsEngine', Icone: ExternalLink }]}
+        liens={[{ nom: 'Code source', lien: 'https://github.com/tristan24217/SimsEngine', Icone: ExternalLink }]}
       />
 
       <figure className="se-video">
